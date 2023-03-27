@@ -32,6 +32,7 @@ function App() {
                   className='icon'
                   key={index} 
                   src={img}
+                  alt='img name'
                   />
               </div>
             ))
@@ -53,7 +54,7 @@ function App() {
           />
         <div className='values'>
           <small>0GB</small>
-          <smal>1000GB</smal>
+          <small>1000GB</small>
         </div>
         <div className='space__value'>
           <h1>{residuo}</h1>
