@@ -20,10 +20,14 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JavaScript
+- React
+- Vite
+- Gh-pages
 
 ### Screenshot
 
-![Design preview for the QR Component coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the Fylo Data Storage Component coding challenge](https://github.com/brycezubi/Data-Storage-component/blob/main/public/design/desktop-preview.jpg)
 
 ### Links
 
